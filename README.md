@@ -21,4 +21,4 @@ Durante o projeto, exploramos como a IA pode criar visuais estéticos a partir d
 Aqui estão alguns exemplos dos resultados e do processo:
 
 ![Exemplo de Imagem](https://github.com/manuel2511/Dio/blob/main/inputs/images.jpeg)
-![Exemplo de Imagem](https://github.com/manuel2511/Dio/output/image3.png)
+![Imagem Final](https://github.com/manuel2511/Dio/blob/main/output/image3.png)
