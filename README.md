@@ -20,5 +20,5 @@ Durante o projeto, exploramos como a IA pode criar visuais estéticos a partir d
 ## Prints
 Aqui estão alguns exemplos dos resultados e do processo:
 
-![Exemplo de Imagem](link-para-imagem-no-inputs)
-![Imagem Final](link-para-imagem-no-output)
+![Exemplo de Imagem](https://github.com/manuel2511/Dio/blob/main/inputs/images.jpeg)
+![Exemplo de Imagem](https://github.com/manuel2511/Dio/output/image3.png)
